@@ -1,9 +1,9 @@
-# Micro-serviço com Node.js
+# MS com Node.js
 
 - Utilizando Kafka
 - Utilizando Node
 
-## APlicações
+## Aplicações
 
 - API principal (Station)
 - Geração de certificado
@@ -16,8 +16,3 @@
 Se conseguir sincrona/assincrona:
 
 - Receber uma resposta assincrona de quando o e-mail com o certificado foi enviado
-
-## O que sabemos?
-
-- REST (latencia)
-- Redis / RabbitMQ / \*\*Kafka
