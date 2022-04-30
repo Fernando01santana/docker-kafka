@@ -1,0 +1,14 @@
+{
+  "name": "certification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "kafkajs": "^1.16.0",
+    "nodemon": "^2.0.16",
+    "sucrase": "^3.21.0"
+  }
+}
